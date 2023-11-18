@@ -162,8 +162,9 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/Srujana0303/MathServer/assets/132996836/5c0b5f24-00b4-4508-bc65-2a2a024d3587)
+![image](https://github.com/Srujana0303/MathServer/assets/132996836/3f586b18-3f79-4f7f-9235-1086c6a9d033)
+
 
 
 ## RESULT:
